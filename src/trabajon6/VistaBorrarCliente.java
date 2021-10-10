@@ -154,14 +154,15 @@ public class VistaBorrarCliente extends javax.swing.JInternalFrame {
 
     private void jbBorrarMouseMoved(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jbBorrarMouseMoved
         // TODO add your handling code here:
-      try{
+      
+            /*  try{
           int a=Integer.parseInt(jtDniBorrar.getText());
       }catch(NumberFormatException nf){
           JOptionPane.showMessageDialog(this, "por favor ingrese un numero valido SIN LETRAS");
           jtDniBorrar.requestFocus();
       }
        
-        jtDniBorrar.setText("");
+        jtDniBorrar.setText("");*/
     }//GEN-LAST:event_jbBorrarMouseMoved
 
 
